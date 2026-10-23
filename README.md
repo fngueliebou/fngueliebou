@@ -16,8 +16,8 @@ evaluation, reproducibility, and understanding *why* a model works before trusti
 
 ### 📌 Featured projects
 
-- [Project 1](#) — short 
-- [Project 2](#) — short 
+- [Project 1](https://github.com/fngueliebou/Cyberdeck) 
+- [Project 2](https://github.com/fngueliebou/Sentinel-x) 
 
 ### 📫 Reach me
 [LinkedIn](https://www.linkedin.com/in/flavien-ngueliebou)
