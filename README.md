@@ -20,4 +20,4 @@ evaluation, reproducibility, and understanding *why* a model works before trusti
 - [Project 2](https://github.com/fngueliebou/Sentinel-x) 
 
 ### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/flavien-ngueliebou)
+[LinkedIn](https://www.linkedin.com/in/fngueliebou)
